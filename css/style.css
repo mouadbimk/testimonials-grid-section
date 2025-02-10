@@ -105,8 +105,11 @@ a, a:visited, a:hover {
   opacity: 0.7;
 }
 .grid__user {
-  font-size: 15px;
-  font-weight: 600;
+  h2{
+   font-size: 15px;
+    font-weight: 600;
+  }
+  
 }
 .grid__user p {
   opacity: 0.5;
